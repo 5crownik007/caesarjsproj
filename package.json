@@ -1,0 +1,11 @@
+{
+  "name": "caesarjsproj",
+  "version": "1.0.0",
+  "description": "does caesar ciphering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "5crownik007",
+  "license": "ISC"
+}
